@@ -2,36 +2,44 @@
     text-align: center;
     color:purple;
     font-size:30px;
-  }
-  
-  body {
+}
+
+h1 {
+    font-size:50px;
+    background: slateblue;
+    color: snow;
+}
+
+body {
     width: 100%;
     overflow: auto;
     clear: both;
     color: #ffffff
-  }
-  
-  header {
+}
+
+#full {
+    width: 100%;
     padding: 20px;
     margin-bottom: 20px;
     color: white;
-    background: #FFA500;
-  }
-  
-  section {
-    padding: 20px;
-    margin-bottom: 20px;
-    color: white;
-    background:#394549
+    background: black;
+}
+
+#joker {
+    float:right;
+    height: 20%;
+    width: 20%;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: salmon;
     
-  }
-  
-  #left {
-    float: left;
-    width: 33.3%;
-    padding: 20px;
-    margin-bottom: 20px;
-    color: white;
-    background-color:#30948D;
-  }
-  
+}
+
+aside {
+    font-size: 25px;
+    color:whitesmoke;
+    width: 33%;
+    text-align: right;
+}
+
+
