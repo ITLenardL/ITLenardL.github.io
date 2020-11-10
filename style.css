@@ -1,0 +1,37 @@
+* {
+    text-align: center;
+    color:purple;
+    font-size:30px;
+  }
+  
+  body {
+    width: 100%;
+    overflow: auto;
+    clear: both;
+    color: #ffffff
+  }
+  
+  header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: white;
+    background: #FFA500;
+  }
+  
+  section {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: white;
+    background:#394549
+    
+  }
+  
+  #left {
+    float: left;
+    width: 33.3%;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: white;
+    background-color:#30948D;
+  }
+  
